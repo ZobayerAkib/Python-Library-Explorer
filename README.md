@@ -19,13 +19,8 @@ The script provides information on:
 - Timezones
 - Wikipedia Link
 
-## Prerequisites
-
-Ensure you have Python installed, then install the `countryinfo` library:
-
-```bash
-pip install countryinfo
 
 
-Replace `https://github.com/your-repo-link/Country-Info-using-Python.ipynb` with the actual URL to your notebook file. Let me know if you need further adjustments!
+
+Replace `https://github.com/ZobayerAkib/Python-Library-Explorer/blob/main/Country%20Info%20using%20Python.ipynb` with the actual URL to your notebook file. Let me know if you need further adjustments!
 
